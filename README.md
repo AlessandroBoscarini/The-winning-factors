@@ -1,5 +1,3 @@
-# The-winning-factors
-
 # The Winning Factors ⚽📊
 ## An analysis of modern football metrics in the main European championships
 
