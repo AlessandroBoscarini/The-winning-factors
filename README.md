@@ -59,7 +59,7 @@ Main attributes analyzed:
 - Fouls
 - Cards
 
-Data preparation included aggregation of match data into team-season statistics. :contentReference[oaicite:3]{index=3}
+Data preparation included aggregation of match data into team-season statistics.
 
 ## Key Findings
 
